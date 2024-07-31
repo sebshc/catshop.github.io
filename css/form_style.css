@@ -1,0 +1,24 @@
+.titl {
+	font-family: "Georgia", serif;
+	font-weight:bold;
+	font-size:30px;
+	color: ghostwhite;
+}
+.sub {
+	font-family: "Georgia", serif;
+	font-size:20px;
+	color: ghostwhite;
+}
+input{
+	width: 13%;
+}
+
+.b1 { 
+	background-image:url(https://64.media.tumblr.com/d7890aa58a44f392741679cb72da4954/2eaa101c09a730ed-fd/s1280x1920/0b659913d4b3dae1e72a1f56cab5e59c76dcd53a.gifv); 
+}
+.b2 { 
+	background-image: url(https://giffiles.alphacoders.com/212/212457.gif);
+}
+.b3 {
+	background-image: url("https://i.pinimg.com/564x/11/d5/f8/11d5f8041466b17076b1ba051d9b74a7.jpg"); 
+}
